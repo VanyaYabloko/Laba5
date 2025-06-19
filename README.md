@@ -66,4 +66,7 @@
 
 https://github.com/user-attachments/assets/6cf9ec06-1057-4606-8d57-1ee3650fd58b
 
+Воно реагує на авіа режим, додам скриншот
+
+![image](https://github.com/user-attachments/assets/e6a1ba0c-346e-4c21-af91-4df790507f34)
 
