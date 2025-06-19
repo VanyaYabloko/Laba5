@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Lab5" parent="Theme.AppCompat.Light.NoActionBar">
+    </style>
+    <style name="Theme.Lab5" parent="Base.Theme.Lab5" />
+</resources>
